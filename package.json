@@ -1,0 +1,13 @@
+{
+  "id": "ManageWP",
+  "name": "ManageWP",
+  "version": "1.0.0",
+  "description": "ManageWP",
+  "main": "index.js",
+  "author": "Peter van den Ochtend <pvdochtend@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.managewp.com",
+    "hasNotificationSound": true
+  }
+}
